@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class AdvancedFileProcessing {
 	
-	static String filePath = "https://github.com/arnolds-helmanis/Homework_File_Processing/blob/main/countryList.csv";
+	static String filePath = "countryList.csv";
 	static String decoding = "UTF-8";
 	static String delimiter = ";";
 	static ArrayList<Country> countries = new ArrayList<Country>();
